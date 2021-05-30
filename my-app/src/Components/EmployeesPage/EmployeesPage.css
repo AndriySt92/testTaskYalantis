@@ -1,0 +1,48 @@
+.employees_page {
+  width: 64%;
+  height: auto;
+  margin-right: 100px;
+}
+.employees_page h1 {
+  margin-left: 50px;
+}
+
+.employees_content {
+  display: flex;
+  justify-content: space-between;
+  overflow-x: scroll;
+}
+
+.employee_items {
+  margin-left: 5px;
+  min-width: 150px;
+}
+
+.employee_item {
+  margin-bottom: 20px;
+}
+
+.employee_item_form input {
+  margin-right: 5px;
+}
+
+.employee_item_name {
+  font-size: 18px;
+  font-weight: 500;
+}
+
+.active {
+  color: blue;
+}
+
+input {
+  margin: 0;
+  padding: 0;
+}
+
+fieldset {
+  border: none;
+  text-align: left;
+  padding: 0;
+  margin: 0;
+}
