@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/AndriySt92/testTaskYalantis.git/static/css/main.8763884d.chunk.css",
+    "main.js": "/AndriySt92/testTaskYalantis.git/static/js/main.b92c3317.chunk.js",
+    "main.js.map": "/AndriySt92/testTaskYalantis.git/static/js/main.b92c3317.chunk.js.map",
+    "runtime-main.js": "/AndriySt92/testTaskYalantis.git/static/js/runtime-main.3e81d639.js",
+    "runtime-main.js.map": "/AndriySt92/testTaskYalantis.git/static/js/runtime-main.3e81d639.js.map",
+    "static/js/2.e99135d7.chunk.js": "/AndriySt92/testTaskYalantis.git/static/js/2.e99135d7.chunk.js",
+    "static/js/2.e99135d7.chunk.js.map": "/AndriySt92/testTaskYalantis.git/static/js/2.e99135d7.chunk.js.map",
+    "index.html": "/AndriySt92/testTaskYalantis.git/index.html",
+    "static/css/main.8763884d.chunk.css.map": "/AndriySt92/testTaskYalantis.git/static/css/main.8763884d.chunk.css.map",
+    "static/js/2.e99135d7.chunk.js.LICENSE.txt": "/AndriySt92/testTaskYalantis.git/static/js/2.e99135d7.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.3e81d639.js",
+    "static/js/2.e99135d7.chunk.js",
+    "static/css/main.8763884d.chunk.css",
+    "static/js/main.b92c3317.chunk.js"
+  ]
+}
